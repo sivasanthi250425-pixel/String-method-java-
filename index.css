@@ -1,24 +1,38 @@
 #div1,#div2,#div3{
-    background-color: aqua;
+    background-color: #735238;
     width: 500px;
     height: 100px;
     border-radius: 10px;
     padding-left: 20px;
 }
 #num{
-    background-color: rgb(201, 52, 77);
-    color:white;
+    background-color: #B2A496;
+    color:black;
     padding: 5px 5px;
     font-size: larger;
+    border-radius: 2px;
+    border-style: solid;
+    border-color: #B2A496;
 }
 #convert-btn{
-    background-color: white;
+    background-color: #B2A496;
     color:black;
     padding:5px 5px;
     font-size: larger;
+    border-radius: 4px;
+     border-style: solid;
+     border-color: #B2A496;
 }
 #top{
-    background-color: rgb(10, 241, 241);
-    width:1000px;
+    background-color: #735238;
+    width:790px;
     height: 150px;
+    border-radius: 20px;
+padding-left: 10px;
+}
+#whole{
+    background-color: #B2A496;
+    width:800px;
+    height:650px;
+    border-radius: 20px;
 }
